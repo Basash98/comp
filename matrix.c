@@ -10,8 +10,7 @@ int main() {
    if (i <= 10) {
       goto multiplication;
    }
-   printf("**Coded by Ashim Bastola**\n");
-   printf("**Grade 11 'M1'**\n");
+
    return 0;
 }
 
