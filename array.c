@@ -15,8 +15,6 @@ int main() {
         }
     }
     printf("The largest element in the array is: %d\n", largest);
-    printf("***Coded by Ashim Bastola***\n");
-    printf("***Grade 11 'M1'***\n");
     return 0;
 }
 
