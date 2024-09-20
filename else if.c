@@ -9,8 +9,6 @@ int main() {
     }
 
     printf("\nSum of even numbers: %d\n", sum);
-    printf("**Coded by Ashim Bastola**\n");
-    printf("**Grade 11 'M1'**\n");
 
     return 0;
 }
