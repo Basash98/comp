@@ -12,8 +12,6 @@ int main() {
         printf("You are not eligible to vote.\n");
     }
 
-    printf("**Coded by Ashim Bastola**\n");
-    printf("**Grade 11 'M1'**\n");
 
     return 0;
 }
